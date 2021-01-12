@@ -23,9 +23,10 @@
     "detox": "^18.1.1",
     "detox-expo-helpers": "^0.6.0",
     "expo-detox-hook": "^1.0.10",
+    "jest": "^26.6.3",
     "jest-expo": "^40.0.1"
   },
-  "private": true, 
+  "private": true,
   "detox": {
     "testRunner": "jest",
     "runnerConfig": "e2e/config.json",
